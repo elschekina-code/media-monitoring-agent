@@ -1,0 +1,18 @@
+# Environnement Python
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets — NE JAMAIS commiter
+secrets/
+*.enc
+*.key
+*.pem
+*.token
+.env
+credentials*.json
+sheet_id.json
+
+# Artefacts générés (régénérables)
+rapports/
+sauvegardes/

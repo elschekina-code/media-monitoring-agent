@@ -1,0 +1,29 @@
+{
+  "agence": {
+    "nom": "African Media Agency (AMA)",
+    "slogan": "",
+    "adresse": "",
+    "email": "",
+    "telephone": "",
+    "site": "https://africanmediaagency.com",
+    "logo": ""
+  },
+  "client": {
+    "nom": "",
+    "logo": ""
+  },
+  "couleurs": {
+    "primaire": "#1F3A5F",
+    "secondaire": "#2E6DA4",
+    "accent": "#C9A227",
+    "fond_entete": "#1F3A5F",
+    "texte": "#222222",
+    "texte_clair": "#FFFFFF"
+  },
+  "typographie": {
+    "titre": "Arial",
+    "corps": "Arial"
+  },
+  "filigrane": "BROUILLON — EN ATTENTE DE VALIDATION",
+  "mention_brouillon": "BROUILLON — EN ATTENTE DE VALIDATION"
+}

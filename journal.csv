@@ -1,0 +1,20 @@
+id;date;communique_ref;action;detail;statut;note
+JRN-20261010-001;2026-10-10;CP-TEST-20261010-001;analyse_communique;titre=Horizon Software lance Nébulis, sa nouvelle plateforme cloud (FICTIF);ok;donnée de test
+JRN-20261010-002;2026-10-10;CP-TEST-20261010-001;recherche_reprises;4 candidats trouvés (simulation);ok;donnée de test
+JRN-20261010-003;2026-10-10;CP-TEST-20261010-001;deduplication;1 doublon détecté et marqué;ok;donnée de test
+JRN-001-REP-20261010-001;2026-10-10;CP-TEST-20261010-001;enregistrement;reprise REP-20261010-001 Presse Tech Afrique;ok;donnée de test
+JRN-002-REP-20261010-002;2026-10-10;CP-TEST-20261010-001;enregistrement;reprise REP-20261010-002 Échos du Numérique;ok;donnée de test
+JRN-003-REP-20261010-003;2026-10-10;CP-TEST-20261010-001;enregistrement;reprise REP-20261010-003 Global Tech Review;ok;donnée de test
+JRN-004-REP-20261010-004;2026-10-10;CP-TEST-20261010-001;enregistrement;reprise REP-20261010-004 Presse Tech Afrique;ok;donnée de test
+JRN-20261010-001-ANA;2026-10-10;CP-20261010-001;analyse_communique;"url=https://africanmediaagency.com/la-technologie-peut-elle-rendre-la-conduite-plus-sure-lapproche-de-yango-en-cote-divoire/?lang=fr; titre=La technologie peut-elle rendre la conduite plus sûre ? L'approche de Yango en Côte d'Ivoire; emetteur=Yango (distribué par African Media Agency / AMA)";ok;
+JRN-20261010-001-RECH;2026-10-10;CP-20261010-001;recherche_reprises;6 reprises vérifiées + 0 déjà collectée(s);ok;
+JRN-20261010-001-005;2026-10-10;CP-20261010-001;enregistrement;reprise REP-20261010-005 Farafina News (reprise_integrale);ok;
+JRN-20261010-001-006;2026-10-10;CP-20261010-001;enregistrement;reprise REP-20261010-006 Novus Group - Press Bulletin (reprise_integrale);ok;
+JRN-20261010-001-007;2026-10-10;CP-20261010-001;enregistrement;reprise REP-20261010-007 Anaya Media (Anaya Communication Groupe) (reprise_integrale);ok;
+JRN-20261010-001-008;2026-10-10;CP-20261010-001;enregistrement;reprise REP-20261010-008 Afriveille (reprise_integrale);ok;
+JRN-20261010-001-009;2026-10-10;CP-20261010-001;enregistrement;reprise REP-20261010-009 Matin Infos (reprise_integrale);ok;
+JRN-20261010-001-010;2026-10-10;CP-20261010-001;enregistrement;reprise REP-20261010-010 YouTube (Shorts) (mention);ok;
+JRN-20261010-QC01;2026-10-10;CP-20261010-001;controle_qualite;pays Matin Infos confirmé = RDC (à-propos : lancé à Kinshasa le 24/09/2016 ; listé par Feedspot);ok;
+JRN-20261010-QC02;2026-10-10;CP-20261010-001;controle_qualite;pays Farafina News non déterminé (page à-propos « Rubrique en construction », aucune source fiable);ok;
+JRN-20261010-QC03;2026-10-10;CP-20261010-001;controle_qualite;6 publications distinctes (6 domaines) : 4 confirmées + 1 probable (Matin Infos) + 1 non vérifiable (YouTube);ok;
+JRN-20261010-MIG;2026-10-10;CP-20261010-001;migration_schema;ajout colonne classification à reprises.csv (confirmee/probable/non_verifiable);ok;
